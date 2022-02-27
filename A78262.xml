@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Master-Taylors residing within the Cities of London and Westminster, and the Weekly Bills of Mortality. Humbly offer'd to the consideration of the Right Honourable the Lords Spiritual and Temporal in Parliament assembled, in relation to the great abuses committed by their journeymen.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78262</idno>
+            <idno type="STC">Wing C1115</idno>
+            <idno type="STC">ESTC R171013</idno>
+            <idno type="EEBO-CITATION">43077481</idno>
+            <idno type="OCLC">ocm 43077481</idno>
+            <idno type="VID">151540</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151540)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2264:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Master-Taylors residing within the Cities of London and Westminster, and the Weekly Bills of Mortality. Humbly offer'd to the consideration of the Right Honourable the Lords Spiritual and Temporal in Parliament assembled, in relation to the great abuses committed by their journeymen.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Docket title on verso: The Case of the Master-Taylors, &amp;c.</note>
+                  <note>Publication information suggested by Wing.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library, San Marino, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Labor disputes --  England --  Early works to 1800.</term>
+               <term>Clothing trade --  England --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151540:1"/>
+            <head>THE CASE OF THE <hi>Maſter</hi>-TAYLORS <hi>reſiding within the Cities of</hi> London <hi>and</hi> Weſtminſter, <hi>and the</hi> Weekly Bills of Mortality.</head>
+            <head type="sub">
+               <hi>HUMBLY OFFER'D</hi> To the Conſideration of the Right Honourable the <hi>Lords Spiritual</hi> and <hi>Temporal</hi> in Parliament aſſembled, in relation to the Great Abuſes committed by their <hi>Journeymen.</hi>
+            </head>
+            <p>THAT towards the latter of End of laſt Summer, when the Maſter Taylors were in the greateſt Hurry of Buſineſs, occaſioned by a more than odinary Run of Trade, their Journeymen (not content with the ſame Wages and Hours of Working as uſual, which their Maſters, when in <hi>Their</hi> Station, were well ſatisfied with) taking Ad<g ref="char:EOLhyphen"/>vantage thereof, and likewiſe of the Univerſal Extravagance at that Time prevailing, did (after ſeveral unlawful Aſſemblies) enter into a <hi>Solemn Combination,</hi> having their Names en<g ref="char:EOLhyphen"/>tered into a Book for that Purpoſe, to compel the Maſters to Raiſe their Wages, and Leſſen the Hours of Working, notwithſtanding the Laws in Force for Regulating Labourers and Journeymen; <hi>Viz.</hi> The 5th of Q. <hi>Eliz. Cap.</hi> 4. <hi>sect.</hi> 21. ſettled 15 Hours in a Day for Work<g ref="char:EOLhyphen"/>ing, as hath been ever ſince continued, and at much lower Wages than they have now, allow<g ref="char:EOLhyphen"/>ing for the Difference of the Times.</p>
+            <p>THIS Combination of the Journeymen-Taylors was come to ſuch a Height, that Com<g ref="char:EOLhyphen"/>plaint being made to His Majeſty's Juſtices of the Peace againſt thoſe Offenders, as Loiſterers, ſeveral of them were bound over to the Seſſions, and others to appear in His Majeſty's Coart of <hi>King's Bench;</hi> and their Subſcription-Books were alſo ſeized, by virtue of the Secretary of State's Warrant: Yet they ſtill continue Obſtinate, and perſiſt in putting the aboveſaid Difficulties upon their Maſters, to the great Prejudice of Trade in general. They alſo collect great Sums of Money Weekly, to ſupport their unlawful Combinations and Confederacies, to the great Prejudice of the Families of ſuch of them as are Married; which Proceedings are of very ill Examples to Journeymen of all other Trades, as is ſufficiently ſeen in the Journeymen Curriers, Smiths, Farriers, Sailmakers, Coachmakers, and divers other Arts and Myſteries, who have actually entred into Confederacies of the like Nature; and the Journeymen Carpenters, Bricklayers and Joyners, have taken ſome Steps for that purpoſe, and only wait to ſee the Event of a Law for Regulating the Journeymen-Taylors.</p>
+            <p>THE Maſter-Taylors, after ſeveral Difficulties occaſioned by the Proceedings of their Journeymen aforeſaid, applied to Parliament; and the Honourable Houſe of Commons were pleaſed to Paſs the <hi>Bill</hi> now depending before Your Lordſhips, in order to prevent the like for the future; and therein did grant to the Journeymen, what they principally inſiſted on, <hi>Viz.</hi> Shortning the Hours of Work from 6 o'Clock in the Morning, 'till 8 of the Clock at Night, inſtead of Nine, which was the uſual Cuſtom, Time out of Mind.</p>
+            <p>THE Maſter-Taylors came into the leſſening the Hours of Work, in order to indulge their Men, and make them eaſy, if poſſible; which Hour of a Day taken off from their Work, will occaſion the Loſs to their Maſters according to the Computation following:
+<table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>One Hour's Work <hi>per Diem</hi> loſt to the Maſter <hi>per Annum,</hi> for each Jour<g ref="char:EOLhyphen"/>neyman, the Maſter loſes</cell>
+                     <cell>2:</cell>
+                     <cell>12:</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>If a Maſter keeps Ten Men at Work, he loſes Annually</cell>
+                     <cell>26:</cell>
+                     <cell>00:</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>If he keeps Twenty Men at Work, he loſes Annually</cell>
+                     <cell>52:</cell>
+                     <cell>00:</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>If he keeps Thirty Men at Work, he loſes Annually</cell>
+                     <cell>78:</cell>
+                     <cell>00:</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="2" facs="tcp:151540:2"/>
+            <p> FROM the foregoing Calculations, it appears, what great Loſs the Maſters will ſuſtain, and that the Wages ſettled by the <hi>Bill</hi> now depending, ar ethe utmoſt that the beſt Journey-Men can poſſibly Earn; and if higher Wages were to be allowed to the ſaid Journeymen, the Maſters muſt either raiſe the Prices of making Cloaths conſiderably, or elſe be inevi<g ref="char:EOLhyphen"/>tably ruined.</p>
+            <p>BY the <hi>Bill</hi> now depending before your Lordſhips, when at the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons, the Journeymen were very deſirous to have a Clauſe inſerted, to oblige their Maſters to pay them their Wages by a ſummary Way before Juſtices of the Peace, which the ſaid Maſters alſo readily complied with; and for want of Payment, the ſaid Juſtices of the Peace are impowered to commit the ſaid Maſters to Gaol, without Bail or Mainprize; which is putting the Maſters under the ſame Reſtrictions of the Juſtices, as their Journey-Men are, and is what they then ſeemed to be contented with at the Houſe of Commons.</p>
+            <p>THAT the Journeymen do ſtill combine to raiſe their Wages to Half a Crown and Three Shillings <hi>per Diem,</hi> and out of the ſaid extravagant Wages, they are ſpirited on by deſigning Perſons, to collect Large Sums for the Support of ſuch Journeymen in Idleneſs, as are not to comply with Reaſonable Wages; and alſo expend Large Sums of Mo<g ref="char:EOLhyphen"/>ney in Law and Solliciting, to oppoſe the Paſſing of the <hi>Bill</hi> now depending before your Lordſhips; which, if the ſame ſhould paſs into a La, would render both the Maſters and their Men eaſy in the ſaid Trade.</p>
+            <p>HE Maſtes humbly conceive, That the leaving for the future (if Occaſion ſhould re<g ref="char:EOLhyphen"/>quire it) the altering and ſettling of the Wages and Hours by the Juſtices, at a General Quarter-Seſſions, from Time to Time, as they ſhall ſee Cauſe, is intirely conſiſtent with the Liberty of the Subject, and according to former Laws in the like Caſes; <hi>viz.</hi> That of the 5th of Q. <hi>Elizabeth,</hi> and that of the 1ſt of K. <hi>James</hi> I. give the ſame Powers to Juſtices at the Quarter-Seſſions. The Journeymen have the ſame Privileges in Appealing, as the Ma<g ref="char:EOLhyphen"/>ſters have, by the preſent <hi>Bill.</hi>
+            </p>
+            <p>
+               <hi>WHEREFORE, the</hi> Maſters <hi>humbly Pray, That the</hi> BILL, <hi>as it no<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtands, may paſs into a</hi> LAW.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>The <hi>CASE</hi> of the <hi>Maſter-Taylors,</hi> &amp;c. Humbly Offered To the Conſideration of the <hi>Houſe of Peers,</hi> in relation to the Great Abuſes committed by their Journey<g ref="char:EOLhyphen"/>men.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
